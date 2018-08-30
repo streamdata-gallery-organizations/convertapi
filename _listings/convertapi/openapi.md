@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: ConvertAPI
 x-complete: 1
@@ -1740,4 +1739,3 @@ paths:
       tags:
       - Xps
       - PDF
----
